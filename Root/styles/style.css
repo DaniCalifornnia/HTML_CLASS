@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 5;
+    padding: 15;
+}
+
+#logo {
+    width: 200px;
+}
+
+.list{
+    display: inline-block;
+}
